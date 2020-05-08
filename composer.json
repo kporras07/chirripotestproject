@@ -21,8 +21,11 @@
         "drush/drush": "^10.2"
     },
     "require-dev": {
+        "chirripo/chirripo": "^0.3",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+        "drupal/coder": "^8.3",
         "drupal/core-dev": "^8.8",
-        "chirripo/chirripo": "^0.3"
+        "overtrue/phplint": "^2.0"
     },
     "conflict": {
         "drupal/drupal": "*"
